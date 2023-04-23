@@ -19,3 +19,9 @@ Contact Us
 If you have any questions, feedback, or issues with the game, please contact us at nonothinggames@gmail.com. We'd be happy to assist you and make your gaming experience as enjoyable as possible.
 
 Get ready to jump your way from train to train, collect yellow stars, open treasure chests, and compete for the highest score in Choo by No Nothing! Have fun and good luck!
+
+Get the Game
+
+App Store: https://apps.apple.com/us/app/choo/id1659481382
+
+Google Play Store: https://play.google.com/store/apps/details?id=com.nonothing.choo
