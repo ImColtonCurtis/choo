@@ -1,6 +1,6 @@
 # choo
 
-"choo" is an exciting and addictive game developed by No Nothing, where you'll need to jump your way from train to train, collecting hundreds of yellow stars along the way! Be careful not to fall off the trains and meet your doom as you strive to achieve the highest score possible.
+"choo" is an exciting and addictive game developed by Colton Curtis, where you'll need to jump your way from train to train, collecting hundreds of yellow stars along the way! Be careful not to fall off the trains and meet your doom as you strive to achieve the highest score possible.
 ## Features
 
     Addictive gameplay: Jump from train to train, collecting yellow stars to earn points and increase your score.
@@ -15,12 +15,6 @@
 
 ## Contact Us
 
-If you have any questions, feedback, or issues with the game, please contact us at nonothinggames@gmail.com. We'd be happy to assist you and make your gaming experience as enjoyable as possible.
+If you have any questions, feedback, or issues with the game, please contact me at imcoltoncurtis@gmail.com. We'd be happy to assist you and make your gaming experience as enjoyable as possible.
 
-Get ready to jump your way from train to train, collect yellow stars, open treasure chests, and compete for the highest score in Choo by No Nothing! Have fun and good luck!
-
-## Get the Game
-
-App Store: https://apps.apple.com/us/app/choo/id1659481382
-
-Google Play Store: https://play.google.com/store/apps/details?id=com.nonothing.choo
+Get ready to jump your way from train to train, collect yellow stars, open treasure chests, and compete for the highest score in Choo by Colton Curtis! Have fun and good luck!
